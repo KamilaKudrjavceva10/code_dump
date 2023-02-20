@@ -1,0 +1,68 @@
+//#include  <iostream>
+//#include  <vector>
+//using namespace std;
+//int main()
+//{
+//	vector <int> num{ 1,2,3,1,2 };
+//	int i = 0;
+//	do {
+//		if (num[i] == 1) { cout << "atradu1"; }
+//		i++;
+//		}while (i < num.size());
+//		i = 0;
+//			do {
+//				if (num[i] == 4 ){ cout << "atradu4"; }
+//				i++;
+//			} while (i < num.size());
+//}
+
+////#include  <iostream>
+////#include  <vector>
+////using namespace std;
+////int main()
+////{
+////	vector <int> num{ 2,3,5,7 };
+////	int i = 0;
+////	do {
+////		cout << num[i] * num[i] << endl;
+////		i++;
+////	} while (i < num.size());
+////}
+
+//#include  <iostream>
+//#include  <vector>
+//using namespace std;
+//int main()
+//{
+//	vector <string> numkkk{ "Lačplesa diena", "latvijas proklomesanas diena" };
+//	vector <string>  datakkk{ "11.11", "18.11" };
+//	cout << "gribat redzet vALSTS SVETKUSSS" << endl;
+//	string kkk;
+//	bool a = false;
+//	cin >> kkk;
+//	int i = 0;
+//	do {
+//		if ("yes" == kkk) 
+//		{
+//			cout << numkkk[i] << endl << datakkk[i] << endl;
+//			a = true;
+//
+//		}
+//		i++;
+//	} while (i < datakkk.size());
+//	if ( a == false) cout << "Good byyyyy" << endl;
+//}
+
+// #include  <iostream>
+//#include  <vector>
+//using namespace std;
+//int main()
+//{
+//	vector <int> kkk{ -1,+2,-4,0,+2,-1,0,+3,-3,+2 };
+//	int i = 0, k = 0;
+//	do {
+//		if (kkk[i] > 0) { k++; }
+//		i++;
+//	} while (i < kkk.size());
+//	cout << k;
+//}
